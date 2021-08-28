@@ -35,7 +35,10 @@ If you can’t access to it, please find here the [Figma file](https://intranet.
 - links hover/active: ```#FF6565```
 - button hover/active: ```opacity: 0.9```
 - max width of the content: 1000px centered in the page  
----
+  
+  
+
+  
 **Task 1: Header**  
 
 Building a web page the right way is not easy - except if you put in place strong foundations:
@@ -60,6 +63,8 @@ Here is an archive of all assets needed: [images_0x04.zip](https://holbertonintr
 **Mobile:**  
   
 ![Mobile Picture](https://github.com/tayloradam1999/holberton-headphones/blob/main/readme_assets/mobile.gif)  
-
----
+  
+  
+  
+  
 ## Task 2: "What we do..." section
