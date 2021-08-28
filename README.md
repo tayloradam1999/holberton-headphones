@@ -18,8 +18,7 @@ This webpage has been designed by Nicolas Philippot, UI/UX designer. You can fin
 - you are not allowed to import external CSS framework (like Bootstrap)  
 - you are not to use Javascript
 
-# Tasks
-**Task 0: Read and be familiar with Figma**  
+## Task 0: Read and be familiar with Figma  
 
 Create an account in [Figma](https://intranet.hbtn.io/rltoken/BQv9A-VghBpAgOlc-pVxQw) and open this [project](https://intranet.hbtn.io/rltoken/UWz3iOOx9ZSpwKRjLpYHoQ) and “Duplicate to your Drafts” to have access to all design details.  
 If you can’t access to it, please find here the [Figma file](https://intranet.hbtn.io/rltoken/Ec1-9OpNim5R_yk0ZDV-_Q) 
@@ -36,11 +35,8 @@ If you can’t access to it, please find here the [Figma file](https://intranet.
 - button hover/active: ```opacity: 0.9```
 - max width of the content: 1000px centered in the page  
   
+## Task 1: Header  
   
-
-  
-**Task 1: Header**  
-
 Building a web page the right way is not easy - except if you put in place strong foundations:
 - reset CSS styling
 - use variables
@@ -63,8 +59,5 @@ Here is an archive of all assets needed: [images_0x04.zip](https://holbertonintr
 **Mobile:**  
   
 ![Mobile Picture](https://github.com/tayloradam1999/holberton-headphones/blob/main/readme_assets/mobile.gif)  
-  
-  
-  
   
 ## Task 2: "What we do..." section
