@@ -1,6 +1,6 @@
 # 0x04. Implement a design from scratch
 
-*It is worth noting that for this project's readme, some of the links will not be accessible to everyone as some links point to my school's curriculum. These links are included for my project to be manually reviewed by a peer or instructor effectively and efficiently.*  
+> It is worth noting that for this project's readme, some of the links will not be accessible to everyone as some links point to my school's curriculum. These links are included for my project to be manually reviewed by a peer or instructor effectively and efficiently.  
   
 In this project, you will implement from scratch, without any library, a web page. You will use all HTML/CSS/Accessibility/Responsive design knowledges that you learned previously.  
   
