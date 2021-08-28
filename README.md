@@ -1,8 +1,11 @@
 # 0x04. Implement a design from scratch
 
 *It is worth noting that for this project's readme, some of the links will not be accessible to everyone as some links point to my school's curriculum. These links are included for my project to be manually reviewed by a peer or instructor effectively and efficiently.*  
+  
 In this project, you will implement from scratch, without any library, a web page. You will use all HTML/CSS/Accessibility/Responsive design knowledges that you learned previously.  
+  
 You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have a fully functional web page that looks the same as the designer file.  
+  
 Here is the **final result**:  
 ![Final result](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210828%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210828T193530Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=db004833cd37ca36d40e77cbebcef4ace7138fbc89b07659639c9e6ad365fbce)  
 
