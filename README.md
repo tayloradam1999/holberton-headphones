@@ -50,13 +50,14 @@ Last piece of advice: Personally, I always start to build a web page from outsid
 *Now, your turn!*
 
 For this first task: **create the header/hero piece**  
+  
 Here is an archive of all assets needed: [images_0x04.zip](https://holbertonintranet.s3.amazonaws.com/uploads/misc/2020/3/d1597894d79386c83b9b.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210828%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210828T193530Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=d0b3a829db5000bd4473f5bd0b511576c252e96fd14031931a70ecbbe8c8920e)  
 
 **Desktop:**
-![Desktop Picture](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/4a93441c93989ad7ea72.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210828%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210828T193530Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2d641f04e641318f59b66102df4660b5bcdc936ee9509db5b672f12e1a7ec452)  
+![Desktop Picture](https://github.com/tayloradam1999/holberton-headphones/blob/main/readme_assets/desktop.gif)  
 
 **Mobile:**
-![Mobile Picture](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/75a582f98640445a2dbf.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210828%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210828T193530Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=606271b4f2cf328e7e2f0cfbddfef549ca97d32c9bdbc88d56fa13112f1ff3f7)  
+![Mobile Picture](https://github.com/tayloradam1999/holberton-headphones/blob/main/readme_assets/mobile.gif)  
 
 ---
 ## Task 2: "What we do..." section
