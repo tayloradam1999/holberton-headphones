@@ -1,10 +1,10 @@
 # 0x04. Implement a design from scratch
 
-*It is worth noting that for this project's readme, some of the links will not be accessible to everyone as some links point to my school's curriculum. These links are included for my project to be manually reviewed by a peer or instructor effectively and efficiently.*
+*It is worth noting that for this project's readme, some of the links will not be accessible to everyone as some links point to my school's curriculum. These links are included for my project to be manually reviewed by a peer or instructor effectively and efficiently.*  
 In this project, you will implement from scratch, without any library, a web page. You will use all HTML/CSS/Accessibility/Responsive design knowledges that you learned previously.  
 You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have a fully functional web page that looks the same as the designer file.  
 Here is the **final result**:  
-![Final result](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210828%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210828T193530Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=db004833cd37ca36d40e77cbebcef4ace7138fbc89b07659639c9e6ad365fbce)
+![Final result](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210828%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210828T193530Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=db004833cd37ca36d40e77cbebcef4ace7138fbc89b07659639c9e6ad365fbce)  
 
 This webpage has been designed by Nicolas Philippot, UI/UX designer. You can find final screens [here.](https://intranet-projects-files.s3.amazonaws.com/holbertonschool-webstack/622/Archive.zip)
 
@@ -47,7 +47,7 @@ Last piece of advice: Personally, I always start to build a web page from outsid
 *Now, your turn!*
 
 For this first task: **create the header/hero piece**  
-Here an archive of all assets needed: [images_0x04.zip](https://holbertonintranet.s3.amazonaws.com/uploads/misc/2020/3/d1597894d79386c83b9b.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210828%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210828T193530Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=d0b3a829db5000bd4473f5bd0b511576c252e96fd14031931a70ecbbe8c8920e)  
+Here is an archive of all assets needed: [images_0x04.zip](https://holbertonintranet.s3.amazonaws.com/uploads/misc/2020/3/d1597894d79386c83b9b.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210828%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210828T193530Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=d0b3a829db5000bd4473f5bd0b511576c252e96fd14031931a70ecbbe8c8920e)  
 
 **Desktop:**
 ![Desktop Picture](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/4a93441c93989ad7ea72.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210828%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210828T193530Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2d641f04e641318f59b66102df4660b5bcdc936ee9509db5b672f12e1a7ec452)  
