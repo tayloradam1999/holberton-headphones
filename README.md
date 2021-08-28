@@ -53,10 +53,12 @@ For this first task: **create the header/hero piece**
   
 Here is an archive of all assets needed: [images_0x04.zip](https://holbertonintranet.s3.amazonaws.com/uploads/misc/2020/3/d1597894d79386c83b9b.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210828%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210828T193530Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=d0b3a829db5000bd4473f5bd0b511576c252e96fd14031931a70ecbbe8c8920e)  
 
-**Desktop:**
+**Desktop:**  
+  
 ![Desktop Picture](https://github.com/tayloradam1999/holberton-headphones/blob/main/readme_assets/desktop.gif)  
 
-**Mobile:**
+**Mobile:**  
+  
 ![Mobile Picture](https://github.com/tayloradam1999/holberton-headphones/blob/main/readme_assets/mobile.gif)  
 
 ---
