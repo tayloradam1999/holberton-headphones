@@ -62,3 +62,11 @@ Here is an archive of all assets needed: [images_0x04.zip](https://holbertonintr
 ![Mobile Picture](https://github.com/tayloradam1999/holberton-headphones/blob/main/readme_assets/mobile.gif)  
   
 ## Task 2: "What we do..." section
+
+Copy Files from the previous  
+
+For this second task: **create the "What we do..." section**  
+
+In this section, you will need custom font icons. Here is the archive of it: [holberton_school-icon.zip](https://holbertonintranet.s3.amazonaws.com/uploads/misc/2020/3/7159d988278de54d859d.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210830T193032Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=0f2153c7ad36669ea7585e201d00495de1c107b0d3251ae66d08adb5f53a3013). Inside you will find a demo page on how to use it.  
+
+**Important:** Try to build as generic as you can... you will probably need some components in the next section.  
