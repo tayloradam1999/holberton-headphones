@@ -65,10 +65,26 @@ Here is an archive of all assets needed: [images_0x04.zip](https://holbertonintr
   
 ## Task 2: "What we do..." section
 
-Copy Files from the previous  
+Copy Files from the previous task  
 
 For this second task: **create the "What we do..." section**  
 
 In this section, you will need custom font icons. Here is the archive of it: [holberton_school-icon.zip](https://holbertonintranet.s3.amazonaws.com/uploads/misc/2020/3/7159d988278de54d859d.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210830T193032Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=0f2153c7ad36669ea7585e201d00495de1c107b0d3251ae66d08adb5f53a3013). Inside you will find a demo page on how to use it.  
 
 **Important:** Try to build as generic as you can... you will probably need some components in the next section.  
+
+## Task 3: "Our results" section  
+
+Copy files from the previous task.  
+
+For this third task: **create the "Our results" section**
+
+Now you can reuse components from the previous task!
+
+## Task 4: Contact us  
+
+Copy files from the previous task.  
+
+A good landing page always has a contact form.  
+
+You are free to add any animations and/or constraints on fields.  
