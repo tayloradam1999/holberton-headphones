@@ -88,3 +88,15 @@ Copy files from the previous task.
 A good landing page always has a contact form.  
 
 You are free to add any animations and/or constraints on fields.  
+
+## 5. Footer  
+
+Copy files from the previous task.  
+
+Last piece of the page... the Footer!  
+
+> This task provides the student with two gifs of what the finished webpage should look like on  desktop and mobile phone, but they are saved as XML documents and I am unsure how to share them on Github. Apologies.  
+
+And you are done!  
+
+**GOOD JOB!**
